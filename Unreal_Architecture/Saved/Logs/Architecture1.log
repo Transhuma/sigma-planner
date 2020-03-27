@@ -1,0 +1,1179 @@
+﻿Log file open, 03/27/20 08:20:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Architecture1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.096926
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AxFImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:319][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.27-12.20.45:319][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.27-12.20.45:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:320][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:323][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.27-12.20.45:323][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.27-12.20.45:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.27-12.20.45:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.27-12.20.45:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.27-12.20.45:326][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.27-12.20.45:326][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.27-12.20.45:331][  0]LogHAL: Display: Platform has ~ 32 GB [34206900224 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.27-12.20.45:331][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.27-12.20.45:331][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:331][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.27-12.20.45:331][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.27-12.20.45:331][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:331][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.27-12.20.45:331][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:331][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.27-12.20.45:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.27-12.20.45:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Scalability.ini]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.27-12.20.45:334][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.27-12.20.45:335][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.27-12.20.45:335][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.27-12.20.45:335][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Config/Windows/Engine.ini]
+[2020.03.27-12.20.45:336][  0]LogInit: Computer: ASUSROG
+[2020.03.27-12.20.45:336][  0]LogInit: User: ivanb
+[2020.03.27-12.20.45:336][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.27-12.20.45:336][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.27-12.20.45:336][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.27-12.20.45:336][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.27-12.20.45:336][  0]LogMemory: Process Physical Memory: 109.61 MB used, 109.61 MB peak
+[2020.03.27-12.20.45:336][  0]LogMemory: Process Virtual Memory: 105.98 MB used, 105.98 MB peak
+[2020.03.27-12.20.45:336][  0]LogMemory: Physical Memory: 8328.36 MB used,  24293.89 MB free, 32622.24 MB total
+[2020.03.27-12.20.45:336][  0]LogMemory: Virtual Memory: 5205.22 MB used,  134212520.00 MB free, 134217728.00 MB total
+[2020.03.27-12.20.45:340][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.27-12.20.45:371][  0]LogInit: Using OS detected language (en-US).
+[2020.03.27-12.20.45:371][  0]LogInit: Using OS detected locale (en-CA).
+[2020.03.27-12.20.45:371][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.27-12.20.45:629][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.27-12.20.45:667][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.27-12.20.45:667][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.27-12.20.45:917][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.27-12.20.45:917][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.27-12.20.45:917][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.27-12.20.45:917][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.27-12.20.45:998][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.03.27-12.20.45:998][  0]LogD3D11RHI:       4021/0/16311 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.27-12.20.46:016][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.03.27-12.20.46:017][  0]LogD3D11RHI:       128/0/16311 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.27-12.20.46:022][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.27-12.20.46:022][  0]LogD3D11RHI:       0/0/16311 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.27-12.20.46:022][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.27-12.20.46:073][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.27-12.20.46:073][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.03.27-12.20.46:073][  0]LogWindows: EnumDisplayDevices:
+[2020.03.27-12.20.46:073][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.03.27-12.20.46:073][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.27-12.20.46:074][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.03.27-12.20.46:074][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.27-12.20.46:074][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.03.27-12.20.46:074][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.27-12.20.46:074][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.27-12.20.46:074][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.03.27-12.20.46:125][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.27-12.20.46:126][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.27-12.20.46:141][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.27-12.20.46:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.27-12.20.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.27-12.20.46:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.27-12.20.46:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.27-12.20.46:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.27-12.20.46:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.27-12.20.46:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.27-12.20.46:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.27-12.20.46:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.27-12.20.46:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.27-12.20.46:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.27-12.20.46:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.27-12.20.46:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.27-12.20.46:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.27-12.20.46:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.27-12.20.46:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.27-12.20.46:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.27-12.20.46:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.27-12.20.46:831][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.27-12.20.46:835][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.27-12.20.46:863][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Intermediate/Shaders/WorkingDirectory/9124/).
+[2020.03.27-12.20.46:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ivanb/AppData/Local/Temp/UnrealShaderWorkingDir/30D074254449DE545C6865BCE27213A3/'.
+[2020.03.27-12.20.46:864][  0]LogXGEController: Cleaning working directory: C:/Users/ivanb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.27-12.20.46:864][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.27-12.20.46:864][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.27-12.20.46:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.27-12.20.47:832][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: Loaded boot cache 0.10s 86MB C:/Users/ivanb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ivanb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ivanb/Documents/Unreal Projects/Architecture1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ivanb/Documents/Unreal Projects/Architecture1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.27-12.20.47:928][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.27-12.20.47:940][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.27-12.20.47:940][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.27-12.20.47:940][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.27-12.20.47:942][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ivanb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.27-12.20.47:942][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.27-12.20.47:942][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.27-12.20.47:977][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.27-12.20.47:980][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.27-12.20.47:980][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.27-12.20.48:035][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.03.27-12.20.48:477][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.27-12.20.48:684][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.27-12.20.48:684][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.27-12.20.48:684][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.27-12.20.48:684][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.27-12.20.48:684][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.27-12.20.48:699][  0]LogNetVersion: Architecture1 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3450929349)
+[2020.03.27-12.20.50:023][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.091652 seconds
+[2020.03.27-12.20.50:035][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.27-12.20.50:035][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.27-12.20.50:035][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.27-12.20.50:603][  0]LogPython: Using Python 2.7.14
+[2020.03.27-12.20.51:506][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.03.27-12.20.51:515][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.27-12.20.51:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.27-12.20.51:604][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.51:604][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.51:605][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.51:606][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.51:607][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.51:618][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.27-12.20.51:619][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.27-12.20.52:680][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.27-12.20.52:715][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.27-12.20.52:715][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.27-12.20.52:824][  0]LogOcInput: OculusInput pre-init called
+[2020.03.27-12.20.53:598][  0]LogEngine: Initializing Engine...
+[2020.03.27-12.20.53:599][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.27-12.20.53:600][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.27-12.20.54:064][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.27-12.20.54:079][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.20.54:096][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.20.54:096][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.20.54:097][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.20.54:097][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.20.54:153][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.20.54:153][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.20.54:153][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.20.54:154][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.20.54:419][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.20.54:425][  0]LogInit: FAudioDevice initialized.
+[2020.03.27-12.20.54:425][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.27-12.20.54:638][  0]LogDerivedDataCache: Saved boot cache 0.21s 86MB C:/Users/ivanb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.27-12.20.54:642][  0]LogInit: Texture streaming: Enabled
+[2020.03.27-12.20.54:657][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.27-12.20.54:657][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DA61B1F8-4666-422F-EEA4-A0813CCAF109}
+[2020.03.27-12.20.54:657][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.27-12.20.54:659][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.27-12.20.54:701][  0]LogInit: Transaction tracking system initialized
+[2020.03.27-12.20.54:718][  0]BlueprintLog: New page: Editor Load
+[2020.03.27-12.20.54:755][  0]LocalizationService: Localization service is disabled
+[2020.03.27-12.20.54:837][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.27-12.20.54:838][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.27-12.20.55:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/' took 0.01s
+[2020.03.27-12.20.55:178][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.27-12.20.55:179][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.27-12.20.58:388][  0]SourceControl: Source control is disabled
+[2020.03.27-12.20.58:388][  0]Cmd: MAP LOAD FILE="C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/CollaborativeViewer_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.27-12.20.58:389][  0]LightingResults: New page: Lighting Build
+[2020.03.27-12.20.58:390][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.20.58:390][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.20.58:390][  0]MapCheck: New page: Map Check
+[2020.03.27-12.20.58:390][  0]LightingResults: New page: Lighting Build
+[2020.03.27-12.20.58:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.27-12.21.01:493][  0]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.21.01:509][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SampleScene/SampleLevel) is flushing async loading
+[2020.03.27-12.21.01:509][  0]LogStreaming: Display: Flushing async loaders.
+[2020.03.27-12.21.02:347][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.27-12.21.02:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.03.27-12.21.02:429][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.27-12.21.02:430][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.386ms to complete.
+[2020.03.27-12.21.02:430][  0]LogFileHelpers: Loading map 'CollaborativeViewer_P' took 4.041
+[2020.03.27-12.21.02:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.02:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.02:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.02:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.02:625][  0]LogCollectionManager: Loaded 0 collections in 0.001296 seconds
+[2020.03.27-12.21.02:640][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Collections/' took 0.00s
+[2020.03.27-12.21.02:640][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Developers/ivanb/Collections/' took 0.00s
+[2020.03.27-12.21.02:640][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Collections/' took 0.00s
+[2020.03.27-12.21.02:640][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3237 classes and 808 folders.
+[2020.03.27-12.21.02:645][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.27-12.21.02:689][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.27-12.21.02:690][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.03.27-12.21.02:740][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.27-12.21.02:743][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.27-12.21.02:752][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.27-12.21.02:863][  0]LogRenderer: Reallocating scene render targets to support 1120x364 Format 10 NumSamples 1 (Frame:1).
+[2020.03.27-12.21.03:049][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.03.27-12.21.03:050][  0]LogLoad: (Engine Initialization) Total time: 19.50 seconds
+[2020.03.27-12.21.03:050][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.27-12.21.03:115][  0]LogAssetRegistry: Asset discovery search completed in 15.0816 seconds
+[2020.03.27-12.21.03:123][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.03.27-12.21.03:127][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.27-12.21.03:188][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-12.21.03:197][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.03.27-12.21.03:292][  2]LogStaticMesh: Allocated 8x8x8 distance field atlas = 0.0Mb, with 1 objects containing 0.0Mb backing data
+[2020.03.27-12.21.08:429][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.21.08:440][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.08:440][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.08:441][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.21.08:441][298]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:21:08 a.m.)
+[2020.03.27-12.21.08:443][298]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.27-12.21.08:445][298]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.27-12.21.08:445][298]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.21.08:452][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006709s)
+[2020.03.27-12.21.08:454][298]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.21.08:454][298]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2020.03.27-12.21.08:454][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009099s)
+[2020.03.27-12.21.08:493][298]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.03.27-12.21.08:495][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.21.08:495][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.21.08:495][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.21.08:495][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.21.08:495][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.21.08:496][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.21.08:496][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.21.08:496][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.21.08:497][298]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.21.08:497][298]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.21.08:522][298]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.21.08:581][298]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.21.08:584][298]LogInit: FAudioDevice initialized.
+[2020.03.27-12.21.08:619][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.08:622][298]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.21.08:671][298]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.21.08
+[2020.03.27-12.21.08:671][298]LogLinker: Warning: Failed to load '/Game/Architectual_Construct/Blueprints/NewLevelSequence': Can't find file.
+[2020.03.27-12.21.08:672][298]LogLinker: Warning: Failed to load '/Game/Architectual_Construct/Blueprints/NewLevelSequence': Can't find file.
+[2020.03.27-12.21.08:672][298]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Architectual_Construct/Blueprints/NewLevelSequence.NewLevelSequence'
+[2020.03.27-12.21.08:672][298]LogWorld: Bringing up level for play took: 0.002384
+[2020.03.27-12.21.08:672][298]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.03.27-12.21.08:679][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.27-12.21.08:685][298]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.823
+[2020.03.27-12.21.08:686][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.08:686][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.08:785][299]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2020.03.27-12.21.18:104][848]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.18:104][848]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.18:104][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.18:105][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.18:106][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.18:106][848]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.21.18:118][848]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.21.18:122][848]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.18:127][848]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.21.18:127][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.21.18:142][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.21.18:143][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.18:143][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.18:154][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.21.18:193][848]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.18:211][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.03.27-12.21.18:245][849]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.27-12.21.18:284][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.27-12.21.33:913][751]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.27-12.21.33:931][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /SunPosition/SunSky.SunSky
+[2020.03.27-12.21.34:156][751]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.03.27-12.21.35:692][751]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.27-12.21.40:427][963]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.21.40:444][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.40:444][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.40:445][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.21.40:445][963]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:21:40 a.m.)
+[2020.03.27-12.21.40:445][963]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.21.40:453][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006975s)
+[2020.03.27-12.21.40:455][963]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.21.40:455][963]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2020.03.27-12.21.40:455][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009139s)
+[2020.03.27-12.21.40:509][963]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.21.40:513][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.21.40:513][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.21.40:513][963]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.21.40:514][963]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.21.40:534][963]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.21.40:593][963]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.21.40:595][963]LogInit: FAudioDevice initialized.
+[2020.03.27-12.21.40:632][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.40:633][963]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.21.40:678][963]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.21.40
+[2020.03.27-12.21.40:680][963]LogWorld: Bringing up level for play took: 0.003445
+[2020.03.27-12.21.40:680][963]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.03.27-12.21.40:690][963]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.828
+[2020.03.27-12.21.40:691][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.40:691][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.46:331][195]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.46:331][195]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.46:331][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.46:331][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.46:332][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.21.46:332][195]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.21.46:345][195]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.21.46:349][195]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.46:353][195]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.21.46:353][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.21.46:380][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.21.46:380][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.21.46:380][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.21.46:398][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.21.46:440][195]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.21.46:456][195]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.03.27-12.21.46:535][196]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.03.27-12.21.46:591][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.27-12.21.52:608][519]BlueprintLog: New page: Compile SunSky
+[2020.03.27-12.21.52:970][519]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.27-12.21.54:409][587]LogSlate: Window 'SunSky' being destroyed
+[2020.03.27-12.21.54:427][587]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.21.54:427][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.21.56:957][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Architectual_Construct/Blueprints/Architectual_Pawn.Architectual_Pawn
+[2020.03.27-12.21.59:683][822]LogSlate: Window 'Architectual_Pawn' being destroyed
+[2020.03.27-12.22.07:696][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /SunPosition/SunSky.SunSky
+[2020.03.27-12.22.14:879][685]BlueprintLog: New page: Compile SunSky
+[2020.03.27-12.22.15:284][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.03.27-12.22.15:685][690]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.22.15:696][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.22.15:697][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.22.15:697][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.22.15:697][690]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:22:15 a.m.)
+[2020.03.27-12.22.15:697][690]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.22.15:702][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004918s)
+[2020.03.27-12.22.15:704][690]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.22.15:704][690]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2020.03.27-12.22.15:704][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.006671s)
+[2020.03.27-12.22.15:749][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.22.15:751][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.22.15:751][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.22.15:752][690]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.22.15:752][690]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.22.15:773][690]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.22.15:833][690]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.22.15:836][690]LogInit: FAudioDevice initialized.
+[2020.03.27-12.22.15:868][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.22.15:869][690]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.22.15:920][690]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.22.15
+[2020.03.27-12.22.15:921][690]LogWorld: Bringing up level for play took: 0.001989
+[2020.03.27-12.22.15:922][690]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.03.27-12.22.15:925][690]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.27-12.22.15:928][690]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.066
+[2020.03.27-12.22.15:928][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.22.15:928][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.22.29:158][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.22.29:158][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.22.29:158][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.22.29:158][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.22.29:158][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.22.29:158][139]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.22.29:176][139]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.22.29:221][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.22.29:226][139]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.22.29:226][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.22.29:267][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.22.29:267][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.22.29:267][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.22.29:286][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.22.29:360][139]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.22.29:382][139]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.03.27-12.22.29:458][140]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.27-12.22.29:509][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.03.27-12.25.04:135][361]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.25.04:152][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.04:152][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.04:152][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.25.04:152][361]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:25:04 a.m.)
+[2020.03.27-12.25.04:153][361]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.25.04:161][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007675s)
+[2020.03.27-12.25.04:162][361]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.25.04:162][361]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2020.03.27-12.25.04:163][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009800s)
+[2020.03.27-12.25.04:229][361]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.25.04:233][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.25.04:233][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.25.04:234][361]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.25.04:234][361]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.25.04:262][361]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.25.04:262][361]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.04:262][361]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.25.04:262][361]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.25.04:262][361]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.25.04:263][361]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.25.04:263][361]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.25.04:263][361]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.25.04:263][361]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.25.04:327][361]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.04:331][361]LogInit: FAudioDevice initialized.
+[2020.03.27-12.25.04:372][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.25.04:373][361]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.25.04:426][361]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.25.04
+[2020.03.27-12.25.04:428][361]LogWorld: Bringing up level for play took: 0.004497
+[2020.03.27-12.25.04:428][361]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.03.27-12.25.04:437][361]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.575
+[2020.03.27-12.25.04:437][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.04:437][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.11:679][599]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.11:679][599]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.11:679][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.11:679][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.11:680][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.25.11:680][599]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.25.11:696][599]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.25.11:736][599]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.11:738][599]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.25.11:739][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.25.11:766][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.25.11:767][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.11:767][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.11:782][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.25.11:837][599]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.11:862][599]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.03.27-12.25.11:894][600]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.03.27-12.25.11:934][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.27-12.25.13:178][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Architectual_Construct/Blueprints/Building_BP.Building_BP
+[2020.03.27-12.25.13:719][663]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.27-12.25.23:603][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Architectual_Construct/Blueprints/Architectual_Controller.Architectual_Controller
+[2020.03.27-12.25.29:002][504]BlueprintLog: New page: Compile Architectual_Controller
+[2020.03.27-12.25.29:375][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.03.27-12.25.29:815][523]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Architectual_ControllerA7B5897943DCA198FCECF9BAB7830637.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/Blueprints/Architectual_Controller.uasset'
+[2020.03.27-12.25.29:844][523]AssetCheck: New page: Asset Save: Architectual_Controller
+[2020.03.27-12.25.29:844][523]LogContentValidation: Display: Validating Blueprint /Game/Architectual_Construct/Blueprints/Architectual_Controller.Architectual_Controller
+[2020.03.27-12.25.32:490][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/SunPosition/SunSky" FILE="../../Plugins/Runtime/SunPosition/Content/SunSky.uasset" SILENT=true
+[2020.03.27-12.25.32:584][674]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/SunSky67ED07764C6780364DF3098BFAC34E14.tmp' to '../../Plugins/Runtime/SunPosition/Content/SunSky.uasset'
+[2020.03.27-12.25.32:615][674]AssetCheck: New page: Asset Save: SunSky
+[2020.03.27-12.25.32:615][674]LogContentValidation: Display: Validating Blueprint /SunPosition/SunSky.SunSky
+[2020.03.27-12.25.33:026][699]BlueprintLog: New page: Compile SunSky
+[2020.03.27-12.25.33:466][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.03.27-12.25.34:918][764]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.25.34:945][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.34:946][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.34:946][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.25.34:946][764]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:25:34 a.m.)
+[2020.03.27-12.25.34:946][764]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.25.34:954][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007659s)
+[2020.03.27-12.25.34:955][764]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.25.34:955][764]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2020.03.27-12.25.34:955][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009623s)
+[2020.03.27-12.25.35:014][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.25.35:015][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.25.35:015][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.25.35:016][764]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.25.35:016][764]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.25.35:037][764]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.25.35:096][764]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.35:098][764]LogInit: FAudioDevice initialized.
+[2020.03.27-12.25.35:134][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.25.35:135][764]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.25.35:183][764]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.25.35
+[2020.03.27-12.25.35:184][764]LogWorld: Bringing up level for play took: 0.002884
+[2020.03.27-12.25.35:185][764]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.03.27-12.25.35:189][764]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.27-12.25.35:193][764]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P -0.669
+[2020.03.27-12.25.35:193][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.35:194][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.41:522][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.41:522][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.41:522][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.41:522][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.41:522][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.25.41:522][960]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.25.41:539][960]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.25.41:582][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.41:585][960]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.25.41:586][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.25.41:637][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.25.41:638][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.41:638][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.41:650][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.25.41:709][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.25.41:728][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.03.27-12.25.41:816][961]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.27-12.25.41:880][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.03.27-12.25.50:488][463]BlueprintLog: New page: Compile Architectual_Controller
+[2020.03.27-12.25.50:841][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.03.27-12.25.51:277][483]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Architectual_ControllerAC4EFEA444341BFEC953F8B9BBEA9155.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/Blueprints/Architectual_Controller.uasset'
+[2020.03.27-12.25.51:297][483]AssetCheck: New page: Asset Save: Architectual_Controller
+[2020.03.27-12.25.51:297][483]LogContentValidation: Display: Validating Blueprint /Game/Architectual_Construct/Blueprints/Architectual_Controller.Architectual_Controller
+[2020.03.27-12.25.53:765][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.03.27-12.25.54:615][621]LogSlate: Window 'Save Content' being destroyed
+[2020.03.27-12.25.54:720][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.27-12.25.55:065][621]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/CollaborativeViewer_PAC2CCBDC44D957A8BB2705A4FDED1880.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/CollaborativeViewer_P.umap'
+[2020.03.27-12.25.55:086][621]LogFileHelpers: Saving map 'CollaborativeViewer_P' took 0.431
+[2020.03.27-12.25.55:104][621]AssetCheck: New page: Asset Save: CollaborativeViewer_P
+[2020.03.27-12.25.55:104][621]LogContentValidation: Display: Validating World /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P
+[2020.03.27-12.25.57:240][734]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.25.57:258][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.57:258][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.25.57:258][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.25.57:258][734]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:25:57 a.m.)
+[2020.03.27-12.25.57:258][734]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.25.57:264][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005788s)
+[2020.03.27-12.25.57:265][734]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.25.57:266][734]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2020.03.27-12.25.57:266][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.007546s)
+[2020.03.27-12.25.57:333][734]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.25.57:334][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.25.57:334][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.25.57:335][734]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.25.57:335][734]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.25.57:356][734]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.25.57:403][734]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.25.57:405][734]LogInit: FAudioDevice initialized.
+[2020.03.27-12.25.57:439][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.25.57:440][734]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.25.57:487][734]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.25.57
+[2020.03.27-12.25.57:488][734]LogWorld: Bringing up level for play took: 0.002242
+[2020.03.27-12.25.57:488][734]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.03.27-12.25.57:496][734]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P -0.366
+[2020.03.27-12.25.57:497][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.25.57:497][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.06:326][ 22]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.06:326][ 22]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.06:326][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.06:326][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.06:326][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.26.06:326][ 22]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.26.06:343][ 22]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.26.06:384][ 22]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.06:387][ 22]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.26.06:388][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.26.06:424][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.26.06:424][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.06:425][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.06:439][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.26.06:496][ 22]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.06:515][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.03.27-12.26.06:548][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.27-12.26.06:609][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.27-12.26.26:215][ 52]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Building_BP1F304EBF4228490711CBFCB79677BB70.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/Blueprints/Building_BP.uasset'
+[2020.03.27-12.26.26:244][ 52]AssetCheck: New page: Asset Save: Building_BP
+[2020.03.27-12.26.26:244][ 52]LogContentValidation: Display: Validating Blueprint /Game/Architectual_Construct/Blueprints/Building_BP.Building_BP
+[2020.03.27-12.26.26:598][ 69]BlueprintLog: New page: Compile Building_BP
+[2020.03.27-12.26.27:005][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.03.27-12.26.32:013][340]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.26.32:041][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.32:041][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.32:041][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.26.32:041][340]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:26:32 a.m.)
+[2020.03.27-12.26.32:042][340]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.26.32:050][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007542s)
+[2020.03.27-12.26.32:051][340]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.26.32:051][340]LogPlayLevel: PIE: World Init took: (0.001626s)
+[2020.03.27-12.26.32:051][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009413s)
+[2020.03.27-12.26.32:115][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.03.27-12.26.32:115][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.26.32:115][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.26.32:116][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.26.32:116][340]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.26.32:116][340]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.26.32:138][340]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.26.32:198][340]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.26.32:200][340]LogInit: FAudioDevice initialized.
+[2020.03.27-12.26.32:243][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.26.32:243][340]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.26.32:286][340]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.26.32
+[2020.03.27-12.26.32:288][340]LogWorld: Bringing up level for play took: 0.002924
+[2020.03.27-12.26.32:289][340]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.27-12.26.32:292][340]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.27-12.26.32:299][340]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.437
+[2020.03.27-12.26.32:299][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.32:299][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.35:849][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.35:849][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.35:849][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.35:850][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.35:850][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.26.35:850][447]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.26.35:867][447]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.26.35:911][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.35:915][447]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.26.35:916][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.26.35:960][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.26.35:960][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.35:960][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.35:972][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.26.36:036][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.26.36:055][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.03.27-12.26.36:137][448]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.27-12.26.36:187][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.27-12.26.42:842][827]BlueprintLog: New page: Compile SunSky
+[2020.03.27-12.26.43:409][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.03.27-12.26.43:841][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/SunPosition/SunSky" FILE="../../Plugins/Runtime/SunPosition/Content/SunSky.uasset" SILENT=true
+[2020.03.27-12.26.43:908][834]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/SunSky804F05A54D33931B4D775589433069AC.tmp' to '../../Plugins/Runtime/SunPosition/Content/SunSky.uasset'
+[2020.03.27-12.26.43:930][834]AssetCheck: New page: Asset Save: SunSky
+[2020.03.27-12.26.43:930][834]LogContentValidation: Display: Validating Blueprint /SunPosition/SunSky.SunSky
+[2020.03.27-12.26.57:205][304]BlueprintLog: New page: Compile SunSky
+[2020.03.27-12.26.57:731][304]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.03.27-12.26.58:096][313]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.27-12.26.58:122][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.58:122][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.26.58:122][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.27-12.26.58:122][313]PIE: New page: PIE session: CollaborativeViewer_P (Mar. 27, 2020, 4:26:58 a.m.)
+[2020.03.27-12.26.58:123][313]LogPlayLevel: Creating play world package: /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.26.58:130][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007315s)
+[2020.03.27-12.26.58:132][313]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2020.03.27-12.26.58:132][313]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2020.03.27-12.26.58:132][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P to /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P (0.009355s)
+[2020.03.27-12.26.58:195][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.27-12.26.58:195][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.27-12.26.58:195][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.27-12.26.58:195][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.27-12.26.58:196][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.27-12.26.58:196][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.27-12.26.58:196][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.27-12.26.58:196][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.27-12.26.58:196][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.27-12.26.58:196][313]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.27-12.26.58:196][313]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.27-12.26.58:216][313]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Is Default: Yes
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: Channel Order:
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.27-12.26.58:217][313]LogAudioMixer: Display: 1: FrontRight
+[2020.03.27-12.26.58:275][313]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.27-12.26.58:278][313]LogInit: FAudioDevice initialized.
+[2020.03.27-12.26.58:317][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.26.58:317][313]LogLoad: Game class is 'Architectual_Game_Mode_BP_C'
+[2020.03.27-12.26.58:364][313]LogWorld: Bringing World /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P.CollaborativeViewer_P up for play (max tick rate 60) at 2020.03.27-08.26.58
+[2020.03.27-12.26.58:365][313]LogWorld: Bringing up level for play took: 0.002639
+[2020.03.27-12.26.58:365][313]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.27-12.26.58:370][313]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.27-12.26.58:373][313]PIE: Play in editor start time for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P 0.512
+[2020.03.27-12.26.58:374][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.26.58:374][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.27.08:364][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.27.08:364][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.27.08:364][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.27.08:364][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.27.08:365][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.27-12.27.08:365][863]LogWorld: BeginTearingDown for /Game/Architectual_Construct/UEDPIE_0_CollaborativeViewer_P
+[2020.03.27-12.27.08:381][863]LogSlate: Window 'Architecture1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.27-12.27.08:387][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.27.08:390][863]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2020.03.27-12.27.08:391][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.27.08:445][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.27-12.27.08:446][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel' has LevelScriptBlueprint '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P' with GeneratedClass '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P_C' with ClassGeneratedBy '/Game/Architectual_Construct/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.CollaborativeViewer_P'
+[2020.03.27-12.27.08:446][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel' with GeneratedClass '/Game/SampleScene/SampleLevel.SampleLevel_C' with ClassGeneratedBy '/Game/SampleScene/SampleLevel.SampleLevel:PersistentLevel.SampleLevel'
+[2020.03.27-12.27.08:459][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.27-12.27.08:514][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.27-12.27.08:539][863]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2020.03.27-12.27.08:603][864]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.27-12.27.08:655][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.27-12.27.20:990][561]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Building_BP9624339E4A6AE04D2B0E908639A2FF29.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Content/Architectual_Construct/Blueprints/Building_BP.uasset'
+[2020.03.27-12.27.21:014][561]AssetCheck: New page: Asset Save: Building_BP
+[2020.03.27-12.27.21:015][561]LogContentValidation: Display: Validating Blueprint /Game/Architectual_Construct/Blueprints/Building_BP.Building_BP
+[2020.03.27-12.27.22:031][612]BlueprintLog: New page: Compile Building_BP
+[2020.03.27-12.27.22:634][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.03.27-12.36.32:471][735]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2020.03.27-12.36.32:966][735]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/CollaborativeViewer_P_Auto1D9DCECAE4D0E02A884502AAE3465D2A7.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Autosaves/Game/Architectual_Construct/CollaborativeViewer_P_Auto1.umap'
+[2020.03.27-12.36.32:968][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Architectual_Construct/CollaborativeViewer_P' took 0.566
+[2020.03.27-12.36.32:968][735]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.566
+[2020.03.27-12.36.32:969][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/SunPosition/SunSky] ([1] browsable assets)...
+[2020.03.27-12.36.32:969][735]OBJ SavePackage: Finished generating thumbnails for package [/SunPosition/SunSky]
+[2020.03.27-12.36.32:969][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/SunPosition/SunSky" FILE="C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Autosaves/SunPosition/SunSky_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.27-12.36.33:064][735]LogSavePackage: Moving 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/SunSky_Auto10435E81241B0D98ED77353BF8430FD5F.tmp' to 'C:/Users/ivanb/Documents/Unreal Projects/Architecture1/Saved/Autosaves/SunPosition/SunSky_Auto1.uasset'
+[2020.03.27-12.36.33:065][735]LogFileHelpers: Auto-saving content packages took 0.096
