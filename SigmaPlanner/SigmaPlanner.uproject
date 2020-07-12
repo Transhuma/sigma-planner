@@ -2,5 +2,17 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.25",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
+		}
+	]
 }
