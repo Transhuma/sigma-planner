@@ -75,3 +75,7 @@ DerivedDataCache/*
 # Content assets
 Content/GrassHillsLandscape
 Content/Meadow_Environment_Set
+
+# Large File Stroage (Git LFS)
+Content/Logic/Maps/Valley.umap
+Content/Logic/Maps/Liberland.umap
